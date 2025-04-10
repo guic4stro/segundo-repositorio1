@@ -20,16 +20,24 @@ body {
     width: 30%;       /* cuidado com SEU tamanho */
 }
 
-.estudante-icone{ 
-  width: 25px;
-  padding: 4px 8px;
+.estudante-icone {
+    width: 25px;
+    padding: 4px 8px;
 }
+
+h1, h2, h3, {
+    color: #000000;
+
+}
+
+
+
 
 footer {
-    background-color: rgb(2, 3, 0);
+    background-color: chartreuse;
 }
 
-rodape {
-  background-color: #000000;
-text-align: center;
+.rodape {
+    background-color:
+    text-align: center;
 }
