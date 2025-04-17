@@ -8,7 +8,7 @@ body {
 
 .estudante-div {
     text-align: center;
-    padding: 16px 0;
+    padding: 50px 0;
 }
 
 .estudante-titulo {
@@ -25,12 +25,14 @@ body {
     padding: 4px 8px;
 }
 
-h1, h2, h3, {
-    color: #000000;
-
+h1, h2, h3 {
+    color:aqua;
+    font-weight: 700;
 }
 
-
+a:hover{
+    color: blue;
+}
 
 
 footer {
@@ -38,6 +40,7 @@ footer {
 }
 
 .rodape {
-    background-color:
+    background-color: crimson;
+    color: chartreuse;
     text-align: center;
 }
